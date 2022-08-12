@@ -1,5 +1,5 @@
 # Meu-Primeiro-Reposit-rio
 
-# Aula Git Githhub
+# Aula Git e Github
 ## Inciando
 :zap:
